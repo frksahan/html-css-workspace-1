@@ -1,0 +1,1 @@
+ben html kursunu bitirdim. şimdi de html ve css i birbirine harman ederek öğrenmeye evam ediyorum. şimdilik her şey çok güzel devam ediyor. güzel olacak inşallah.
