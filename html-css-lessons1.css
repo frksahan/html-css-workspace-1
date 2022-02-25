@@ -47,7 +47,7 @@ h5:hover {
 }
 
 .heading-background {
-    background-color: aqua;
+    background-color: lightgreen;
 }
 
 #publish-time {
@@ -64,4 +64,12 @@ h5 {
 
 #author-id {
     color: cornflowerblue;
+}
+
+h2.destination {
+    font-family: Tahoma;
+}
+
+.description h5 {
+    color: blueviolet;
 }
